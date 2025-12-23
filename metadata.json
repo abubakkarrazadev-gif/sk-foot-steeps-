@@ -1,0 +1,7 @@
+{
+  "name": "SK Foot Steps – Peshawari Chapples Redefined",
+  "description": "A luxury dark-themed e-commerce experience for handmade Peshawari Chappals, featuring modern animations and gold accents.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
